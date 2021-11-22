@@ -61,4 +61,4 @@ ggplot(data, aes(x=region, y = observations, color=region)) +
   theme_classic()
 
 ##Do the bar and scatter plots tell you different stories? Why?
-#
+# Scatter plot shows the distribution of the points. bar plot does not show the distribution so you cannot see what exactly is affecting the mean
