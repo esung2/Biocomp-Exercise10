@@ -6,7 +6,7 @@ library(cowplot)
 ###Question 1
 #Looking at the relationship between hours spent studying and grades
 #Loading text file:
-hrsVSg <- read.table(file="HoursGrades.txt", header = TRUE, sep ="", stringsAsFactors = FALSE)
+hrsVSg <- read.table(file="HoursGrades.txt", header = TRUE, sep ="", stringsAsFactors = FALSE) #I put the data file in the repository
 hrsVSg
 
 #Making scatterplot showing the relationship between hours spent studying and grades
