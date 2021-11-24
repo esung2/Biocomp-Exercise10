@@ -1,5 +1,3 @@
-setwd("~/Desktop/r-novice-inflammation/Biocomp-Exercise10/")
-
 install.packages("ggplot2")
 library(ggplot2)
 install.packages("cowplot")
